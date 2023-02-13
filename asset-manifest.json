@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.c9f79134.css",
-    "main.js": "/static/js/main.96779412.js",
+    "main.js": "/static/js/main.a2cbc50c.js",
     "static/media/akaya-telivigala-all-400-normal.woff": "/static/media/akaya-telivigala-all-400-normal.78fd8cb2a221beeb77ce.woff",
-    "static/media/aliffirdi.webp": "/static/media/aliffirdi.a7c0774a8116af90cef5.webp",
     "static/media/akaya-telivigala-telugu-400-normal.woff2": "/static/media/akaya-telivigala-telugu-400-normal.cc24af700d82d6ced8f6.woff2",
     "static/media/lobi.webp": "/static/media/lobi.9e354070f97d777f83ae.webp",
     "static/media/bighead-1.svg": "/static/media/bighead-1.f64b34fdf58b191b0167968db801f681.svg",
     "static/media/akaya-telivigala-latin-400-normal.woff2": "/static/media/akaya-telivigala-latin-400-normal.6adfb2bb1dd65aa73a6c.woff2",
+    "static/media/aliffirdi-540.webp": "/static/media/aliffirdi-540.02250098e6d1393f0371.webp",
     "static/media/bighead.svg": "/static/media/bighead.d15521cfa238cb3c9d2b60c29e7f3f7e.svg",
     "static/media/bighead-3.svg": "/static/media/bighead-3.ee360106bab5dce5e9d68a2a0ea516ad.svg",
     "static/media/bighead-10.svg": "/static/media/bighead-10.728c802abe9deada8a3a0a94da660907.svg",
@@ -44,14 +44,14 @@
     "static/media/php.webp": "/static/media/php.e69bbb538b67a827500a.webp",
     "static/media/echo.webp": "/static/media/echo.a87a433d54389228a427.webp",
     "static/media/python.webp": "/static/media/python.34213ada3ecccf60c267.webp",
-    "static/media/django.webp": "/static/media/django.94b9188148a9034cec70.webp",
     "index.html": "/index.html",
+    "static/media/django.webp": "/static/media/django.94b9188148a9034cec70.webp",
     "static/media/Arrow.svg": "/static/media/Arrow.2aa046cef6c722596b055a335b4a9792.svg",
     "main.c9f79134.css.map": "/static/css/main.c9f79134.css.map",
-    "main.96779412.js.map": "/static/js/main.96779412.js.map"
+    "main.a2cbc50c.js.map": "/static/js/main.a2cbc50c.js.map"
   },
   "entrypoints": [
     "static/css/main.c9f79134.css",
-    "static/js/main.96779412.js"
+    "static/js/main.a2cbc50c.js"
   ]
 }
